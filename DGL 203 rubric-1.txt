@@ -1,0 +1,53 @@
+INSTRUCTIONS: Fill out the following form and upload the form to your GITHub repository. 
+Choose only one of the corresponding numbers in your answer for sections A-E.  
+Answer the questions in section F in sentence form.
+
+A. Code Quality 
+0 - Nothing - No submission
+1 - Below Expectations - Code renders but the code is unreadable 
+2 - Meets Expectations - Good formatting and uses naming conventions but can be improved
+3 - Exceeds Expectations - Code is exceptionally clean and best practices are used
+Your Answer: 3
+
+
+B. Content 
+0 - Nothing - No submission
+1 - Below Expectations - Content not related to assignment or project
+2 - Meets Expectations - Content is related to assignment or project and gets the point across
+3 - Exceeds Expectations - Content is exceptionally detailed and well put together
+Your Answer: 2
+
+
+C. Layout / Organization 
+0 - Nothing - No Submission
+1 - Below Expectations - Long codes with no divisions or random code layout
+2 - Meets Expectations - Code that is modular and divided into section declarations; subprograms
+3 - Exceeds Expectations - Code is exceptionally well organized. 
+Your Answer: 2
+
+
+D. Comments/Commits 
+0 - Nothing - No Submission
+1 - Below Expectations - Excessive, unnecessary, and irrelevant remarks
+2 - Meets Expectations - Comments identify authorship and code's intention
+3 - Exceeds Expectations - Comments and documentation are clear succinct; wizardry points are explained
+Your Answer: 3
+
+
+E. Rendering 
+0 - Nothing - Page does not load or render
+1 - Below Expectations - Page renders, but has errors and/or has apparent design issues
+2 - Meets Expectations - Page renders and produces no errors
+3 - Exceeds Expectations - Page renders and displays properly for multiple screen sizes and browsers 
+Your Answer: 3
+
+
+F. Self Evaluation Questions:
+
+1. How much time did you spend on this assignment/project? 9 hours
+
+2. How difficult did you feel this project was? Easy, moderate, difficult? moderate
+
+3. What challenges did you come across while working on this project? Applying the responsiveness of the webpage interface due to compatibillity enhancement of any browser or device.
+
+4. What things would you like to learn more about after having worked on this assignment? To familiarize all the CSS rules in order to apply standard and enhance website. And also I would like to apply the webpage actions or events using JS.
