@@ -1,0 +1,17 @@
+
+BrandonBritton-DGL203-Lab3B-1
+https://github.com/Ushinattamono/BrandonBritton-DGL203-Lab3B-1/issues/3
+Menu and container section in motion sample page #3
+
+In case of page the navigation nav class styles does not seems reflect to the layout responsive layout maybe because of conflict CSSscript on between the animation and the navigation attributes of properties. But I cannot locate it directly to the source code because it takes time for me to scan it and familiar the structure of of code. But try to check this part of applying class attribute of responsive navigation menu and motion animation.
+
+
+
+
+Hamburger Menu and Container
+https://github.com/vsauvage13/Lab3B1-2/issues/4
+
+In this part of CSS style in all pages that applied in hamburger menu was seems no problem most especially in the webpage logo are sometimes consider also an important part of your pages most likely when you try to convince the visitor to visit your site.
+So here is my suggestion on CSS script concept. in navigation menu responsive style is to add checkbox attributes on input properties to put your logo of all pages if necessary.
+
+And also in container content positioning side in motion page should add padding or you apply flexbox align item to adjust content layout to the center of the page.
